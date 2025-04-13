@@ -1,0 +1,31 @@
+header, footer{
+    background-color: #39CCCC;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.nav-link{
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.nav-li{
+    padding: 0 18px;
+}
+
+.nav-li.active, .nav-li.active:before { 
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+ul:hover {
+    background-color: #30BBBB;
+}
+
+.clearfix{
+   background-color: #30BBBB;
+}
